@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074191505379",
+    "project_id": "sendlog-10ddf",
+    "storage_bucket": "sendlog-10ddf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074191505379:android:3b5adaa642283bdf7b72d6",
+        "android_client_info": {
+          "package_name": "com.example.send_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhPm5FKFmZozkMIPTCNTyBbhisY-frOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
